@@ -1,0 +1,46 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles problemas de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [production] (Esquema)
+       [sales] (Esquema)
+       [production].[stocks] (Tabla)
+       [production].[products] (Tabla)
+       [production].[brands] (Tabla)
+       [production].[categories] (Tabla)
+       [sales].[order_items] (Tabla)
+       [sales].[orders] (Tabla)
+       [sales].[staffs] (Tabla)
+       [sales].[stores] (Tabla)
+       [sales].[customers] (Tabla)
+       Restricción DEFAULT: restricción sin nombre en [sales].[order_items] (Restricción DEFAULT)
+       Clave externa: restricción sin nombre en [production].[stocks] (Clave externa)
+       Clave externa: restricción sin nombre en [production].[stocks] (Clave externa)
+       Clave externa: restricción sin nombre en [production].[products] (Clave externa)
+       Clave externa: restricción sin nombre en [production].[products] (Clave externa)
+       Clave externa: restricción sin nombre en [sales].[order_items] (Clave externa)
+       Clave externa: restricción sin nombre en [sales].[order_items] (Clave externa)
+       Clave externa: restricción sin nombre en [sales].[orders] (Clave externa)
+       Clave externa: restricción sin nombre en [sales].[orders] (Clave externa)
+       Clave externa: restricción sin nombre en [sales].[orders] (Clave externa)
+       Clave externa: restricción sin nombre en [sales].[staffs] (Clave externa)
+       Clave externa: restricción sin nombre en [sales].[staffs] (Clave externa)
+       [dbo].[GetCustomerChangesByRowVersion] (Procedimiento)
+       [dbo].[GetDatabaseRowVersion] (Procedimiento)
+       [dbo].[GetOrdersChangesByRowVersion] (Procedimiento)
+       [dbo].[GetProductChangesByRowVersion] (Procedimiento)
+       [dbo].[GetStaffChangesByRowVersion] (Procedimiento)
+       [dbo].[GetStoreChangesByRowVersion] (Procedimiento)
+
+** Acciones de compatibilidad
+
+Las bases de datos del proyecto y de destino tienen una configuración de intercalación diferente. Se pueden producir errores de implementación.
+

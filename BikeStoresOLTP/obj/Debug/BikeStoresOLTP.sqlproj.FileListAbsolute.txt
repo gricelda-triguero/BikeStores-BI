@@ -1,0 +1,6 @@
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.dacpac
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.dll
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresOLTP\bin\Debug\BikeStoresOLTP.pdb
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.sqlprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.dll
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresOLTP\obj\Debug\BikeStoresOLTP.pdb
