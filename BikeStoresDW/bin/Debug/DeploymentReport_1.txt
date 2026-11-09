@@ -1,0 +1,45 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles problemas de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dw] (Esquema)
+       [stg] (Esquema)
+       [dw].[FactOrders] (Tabla)
+       [dw].[DimStore] (Tabla)
+       [dw].[DimStaff] (Tabla)
+       [dw].[DimProduct] (Tabla)
+       [dw].[DimDate] (Tabla)
+       [dw].[DimCustomer] (Tabla)
+       [stg].[Store] (Tabla)
+       [stg].[Staff] (Tabla)
+       [stg].[Product] (Tabla)
+       [stg].[Orders] (Tabla)
+       [stg].[Customer] (Tabla)
+       [dbo].[PackageConfig] (Tabla)
+       [dw].[FK_DimCustomer] (Clave externa)
+       [dw].[FK_DimProduct] (Clave externa)
+       [dw].[FK_DimStaff] (Clave externa)
+       [dw].[FK_DimStore] (Clave externa)
+       [dw].[FK_DimDate_OrderDate] (Clave externa)
+       [dw].[FK_DimDate_RequiredDate] (Clave externa)
+       [dw].[FK_DimDate_ShippedDate] (Clave externa)
+       [dbo].[DW_MergeDimCustomer] (Procedimiento)
+       [dbo].[DW_MergeDimProduct] (Procedimiento)
+       [dbo].[DW_MergeDimStaff] (Procedimiento)
+       [dbo].[DW_MergeDimStore] (Procedimiento)
+       [dbo].[DW_MergeFactOrders] (Procedimiento)
+       [dbo].[GetLastPackageRowVersion] (Procedimiento)
+       [dbo].[UpdateLastPackageRowVersion] (Procedimiento)
+
+** Acciones de compatibilidad
+
+Las bases de datos del proyecto y de destino tienen una configuración de intercalación diferente. Se pueden producir errores de implementación.
+

@@ -1,0 +1,5 @@
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresDW\bin\Debug\BikeStoresDW.dacpac
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresDW\obj\Debug\BikeStoresDW.dll
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresDW\obj\Debug\BikeStoresDW.pdb
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresDW\bin\Debug\BikeStoresDW.dll
+C:\Users\USUARIO\source\repos\BikeStores-BI\BikeStoresDW\bin\Debug\BikeStoresDW.pdb
